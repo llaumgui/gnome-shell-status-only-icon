@@ -2,6 +2,8 @@ This project is an extension for [Gnome shell](http://live.gnome.org/GnomeShell)
 
 ---
 
+Also avalaible on [GNOME Shell Extensions website](https://extensions.gnome.org): [https://extensions.gnome.org/extension/40/status-only-icon/](https://extensions.gnome.org/extension/40/status-only-icon/).
+
 ![Without gnome-shell-status-only-icon](http://www.llaumgui.com/public/images/fedora/fedora15/sans_status-only-icon.png "Without gnome-shell-status-only-icon") _(Without gnome-shell-status-only-icon)_
 
 ![With gnome-shell-status-only-ico](http://www.llaumgui.com/public/images/fedora/fedora15/status-only-icon.png "With gnome-shell-status-only-icon") _(With gnome-shell-status-only-icon)_
