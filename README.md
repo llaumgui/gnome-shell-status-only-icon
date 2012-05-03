@@ -2,8 +2,10 @@ This project is an extension for [Gnome shell](http://live.gnome.org/GnomeShell)
 
 ---
 
-Also avalaible on [GNOME Shell Extensions website](https://extensions.gnome.org): [https://extensions.gnome.org/extension/40/status-only-icon/](https://extensions.gnome.org/extension/40/status-only-icon/),
-and as an [Arch Linux](http://archlinux.org) [AUR](http://aur.archlinux.org) package: [https://aur.archlinux.org/packages.php?ID=54691](https://aur.archlinux.org/packages.php?ID=54691).
+Also avalaible on:
+
+* [GNOME Shell Extensions website](https://extensions.gnome.org): [https://extensions.gnome.org/extension/40/status-only-icon/](https://extensions.gnome.org/extension/40/status-only-icon/),
+* [Arch Linux](http://archlinux.org) [AUR](http://aur.archlinux.org): [https://aur.archlinux.org/packages.php?ID=54691](https://aur.archlinux.org/packages.php?ID=54691).
 
 ![Without gnome-shell-status-only-icon](http://www.llaumgui.com/public/images/fedora/fedora15/sans_status-only-icon.png "Without gnome-shell-status-only-icon") _(Without gnome-shell-status-only-icon)_
 
