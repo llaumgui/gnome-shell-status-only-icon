@@ -13,15 +13,15 @@
  * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
  * GNU General Public License for more details.
  */
- 
+
 const Main = imports.ui.main;
 
 function init() {}
 
 function enable() {
-    Main.panel._statusArea.userMenu._name.hide();
+    Main.panel.statusArea.userMenu._name.hide();
 }
 
 function disable() {
-    Main.panel._statusArea.userMenu._name.show();
+    Main.panel.statusArea.userMenu._name.show();
 }

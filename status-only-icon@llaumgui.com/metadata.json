@@ -1,7 +1,7 @@
 {
-  "shell-version": ["3.2", "3.3", "3.4"],
-  "uuid": "status-only-icon@llaumgui.com",
-  "name": "status-only-icon",
-  "description": "Display just an icon for status menu",
-  "url": "http://projects.llaumgui.com/p/gnome-shell-status-only-icon"
+    "shell-version": ["3.6"],
+    "uuid": "status-only-icon@llaumgui.com",
+    "name": "Status only icon",
+    "description": "Display just an icon for status menu",
+    "url": "https://projects.llaumgui.com/p/gnome-shell-status-only-icon"
 }
