@@ -1,3 +1,5 @@
+__This project is discontinued because GNOME 3.8 provide natively the same functionality.__
+
 This project is an extension for [Gnome shell](http://live.gnome.org/GnomeShell) who display just an icon for status menu.
 
 ---
